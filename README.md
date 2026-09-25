@@ -4,7 +4,7 @@ Welcome to the archaeological site of my coding era 🦖
  
 support → databases → code  → networks → infrastructure → governance 
  
-## previously_on_my_brain.js 
+## previously_on_my_brain.js 🐛
  
 const technologies = [ 
   "JavaScript", 
@@ -15,7 +15,7 @@ const technologies = [
   "Oracle" 
 ]; 
  
-const currentStatus = "I swear I used to know this"; 
+💾 const currentStatus = "I swear I used to know this"; 
  
 ## currently 
  
