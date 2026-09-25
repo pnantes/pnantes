@@ -1,6 +1,6 @@
-# Hello World, I'm Paola 👋
+# Hello World, I'm Paola 🌷
 
-Welcome to the archaeological site of my coding era. 🦖💻   
+Welcome to the archaeological site of my coding era 🦖   
  
 support → databases → code  → networks → infrastructure → governance 
  
