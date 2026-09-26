@@ -2,7 +2,7 @@
 
 Welcome to the archaeological site of my coding era 🦖   
  
-support → databases → code  → networks → infrastructure → governance 
+support → databases → code → infrastructure → governance 
  
 ## previously_on_my_brain.js 🐛
  
